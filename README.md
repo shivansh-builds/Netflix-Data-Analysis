@@ -92,19 +92,7 @@ streamlit run dashboard/app.py
 ## Dashboard Screenshots
 Placeholder screenshots can be added after local dashboard execution.
 
-## SQL Examples
-```sql
-SELECT type, COUNT(*) AS titles
-FROM netflix_titles
-GROUP BY type
-ORDER BY titles DESC;
 
-SELECT country, COUNT(*) AS titles
-FROM netflix_titles
-GROUP BY country
-ORDER BY titles DESC
-LIMIT 10;
-```
 
 ## Business Insights
 - The largest content concentration lives in the US and India.
@@ -118,5 +106,3 @@ LIMIT 10;
 - Expand dashboard pages with deeper drill-downs
 - Add predictive content planning features
 
-## License
-This project is distributed under the MIT License.
