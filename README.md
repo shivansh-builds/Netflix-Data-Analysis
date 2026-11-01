@@ -89,8 +89,6 @@ streamlit run dashboard/app.py
 - logging
 - typing
 
-## Dashboard Screenshots
-Placeholder screenshots can be added after local dashboard execution.
 
 
 
